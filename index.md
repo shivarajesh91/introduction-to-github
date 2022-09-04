@@ -24,3 +24,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 console.log("Welcome to Programiz!");
 alert("Hello Javascript!");
 ```
+# Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+## Task List Example:
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
