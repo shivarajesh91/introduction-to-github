@@ -10,3 +10,7 @@ This is Header4.
 This is Header5.
 ###### Header6
 This is Header6.
+
+# Image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
